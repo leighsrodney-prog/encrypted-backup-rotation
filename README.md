@@ -1,3 +1,5 @@
+> **This project's home is now [github.com/globe-teck/encrypted-backup-rotation](https://github.com/globe-teck/encrypted-backup-rotation).** This copy stays up for existing links. Please open issues and pull requests there.
+
 # encrypted-backup-rotation
 
 [![CI](https://github.com/leighsrodney-prog/encrypted-backup-rotation/actions/workflows/ci.yml/badge.svg)](https://github.com/leighsrodney-prog/encrypted-backup-rotation/actions/workflows/ci.yml)
